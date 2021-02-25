@@ -1,3 +1,4 @@
-importFrom("graphics", "plot", "legend", "par")
-importFrom("stats", "dmultinom")
+importFrom("graphics", "plot", "abline", "legend", "par")
+importFrom("stats", "cov", "dmultinom", "rexp", "rpois", "var")
 exportPattern(Dcalc)
+exportPattern(coal)

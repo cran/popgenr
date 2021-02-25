@@ -9,7 +9,8 @@ dominula).
 moth
 }
 \source{
-Fisher, R.A. and E.B. Ford (1947) "The Spread of a Gene in Natural Conditions in a Colony of the Moth Panaxia dominula" <doi:10.1038/hdy.1947.11>
+Fisher, R. A. and E. B. Ford (1947). The Spread of a Gene in Natural Conditions
+in a Colony of the Moth Panaxia dominula. Heredity 1: 143-174.
 }
 
 \keyword{file}

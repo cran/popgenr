@@ -10,7 +10,8 @@ fly
 }
 
 \source{
-Buri, P. (1956). "Gene frequency in small populations of mutant Drosophila" <doi:10.1111/j.1558-5646.1956.tb02864.x>
+Buri, P. (1956). Gene frequency in small populations of mutant Drosophila.
+Evolution, 10, 367-402.
 }
 
 \keyword{file}
